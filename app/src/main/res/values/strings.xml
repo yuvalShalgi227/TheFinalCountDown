@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheFinalCountDown</string>
+    <string name="app_name2">TheFinalCountDown2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text2">start</string>
+    <string name="text3">start</string>
+    <string name="action_settings">Settings</string>
+</resources>
