@@ -23,4 +23,14 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="press ME"
+        android:id="@+id/textView"
+        android:layout_below="@+id/Button01"
+        android:layout_alignRight="@+id/Button01"
+        android:layout_alignEnd="@+id/Button01" />
+
 </RelativeLayout>
